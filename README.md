@@ -127,7 +127,7 @@ SAMPLE_SIZE   = 150000  # Papers to load when USE_FULL_DATA = False
 ```
 📦 Algorithms-for-Massive-Data-Analysis
  ┣ 📓 PageRank_Project.ipynb   ← Main notebook (Google Colab ready)
- ┣ 📄 report.pdf               ← Project report
+ ┣ 📄 PageRank_Report.pdf     ← Project report
  ┣ 🖼️ fig_distribution.png    ← PageRank score & degree distributions
  ┣ 🖼️ fig_top_authors.png     ← Top 15 authors bar chart
  ┣ 🖼️ fig_scalability.png     ← Scalability benchmark plots
